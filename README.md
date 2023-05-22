@@ -9,5 +9,5 @@ Place your key in the .env file in the format specified.
 Here's an example bash alias you can use to quickly run the program.
 
 ```
-alias chatgpt="/bin/python /home/cicada/Documents/OSSProjects/PDFMerge/cmdgpt.py"
+alias chatgpt="/bin/python /home/cicada/Documents/OSSProjects/CMDChatGPT/cmdgpt.py"
 ```
